@@ -14,9 +14,9 @@
 >- ... (Designer)
 
 
-## Ferramentas
+## Ferramentas (feito!)
 
-Para organização e distribuição das tarefas do projeto, a equipe está utilizando o Trello estruturado com as seguintes listas: (feito!)
+Para organização e distribuição das tarefas do projeto, a equipe está utilizando o Trello estruturado com as seguintes listas: 
 
 - Recursos: esta lista mantém template de tarefas recorrentes com as configurações padronizadas que todos devem seguir. 
 - Backlog: recebe as tarefas a serem trabalhadas e representa o Product Backlog. 
