@@ -6,7 +6,7 @@ Para a interface do nosso sistema, buscamos fazer algo prático e ágil. Assim, 
 
 ## User Flow
 
-![Exemplo de UserFlow](images/fluxo.usuarios.png)
+(images/fluxo.usuarios.png)
 
 > Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor
 > mapear todo fluxo de telas do site ou app. Essa técnica funciona
