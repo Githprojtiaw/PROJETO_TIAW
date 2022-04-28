@@ -3,8 +3,8 @@
 
 ## Personas
 
-Persona: Gill Gates
-Idade: 
+#Persona: Gill Gates
+#Idade: 
 - 70 anos 
 Ocupação: 
 - Aposentado
