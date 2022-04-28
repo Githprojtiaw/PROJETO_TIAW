@@ -8,31 +8,31 @@
  70 anos 
 - Ocupação: 
  Aposentado
-Objetivos: 
- Entretenimento 
- Informação 
- Manter contato com os familiares 
- Exercer sua cidadania e fazer transações financeiras
-Sonhos: 
- Quer ver os netos dando certo na vida 
- Aposentadoria tranquila
-Aplicativos usados: 
- WhatsApp 
+- Objetivos: 
+ Entretenimento, 
+ informação, 
+ manter contato com os familiares, 
+ exercer sua cidadania e fazer transações financeiras
+- Sonhos: 
+ Quer ver os netos dando certo na vida, 
+ aposentadoria tranquila
+- Aplicativos usados: 
+ WhatsApp, 
  Facebook
-Dispositivos usados: 
+- Dispositivos usados: 
  Celular
-Motivações: 
+- Motivações: 
  Ele afirma que é mais velho, merece respeito por ter mais experiência de vida.
 Independência e alcançar uma autonomia
-Frustrações:
- Angústia e incapacidade 
- Se sente ultrapassado
- O neto dele diz pra ele que é só "jogar no google"
- Acha o google complicado 
+- Frustrações:
+ Angústia e incapacidade, 
+ Se sente ultrapassado,
+ O neto dele diz pra ele que é só "jogar no google",
+ Acha o google complicado, 
  Os amigos não tem paciência ou sabem menos que ele
-Hobbies: 
- Joga paciência no Celular
- Assistir History Channel
+- Hobbies: 
+ Joga paciência no Celular,
+ Assistir History Channel,
  Encaminhar fake news no Whatsapp
 
 
