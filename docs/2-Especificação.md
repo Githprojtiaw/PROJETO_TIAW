@@ -3,37 +3,37 @@
 
 ## Personas
 
-- Persona: Gill Gates
-- Idade: 
- 70 anos 
-- Ocupação: 
- Aposentado
-- Objetivos: 
- Entretenimento, 
- informação, 
- manter contato com os familiares, 
- exercer sua cidadania e fazer transações financeiras
-- Sonhos: 
- Quer ver os netos dando certo na vida, 
- aposentadoria tranquila
-- Aplicativos usados: 
- WhatsApp, 
- Facebook
-- Dispositivos usados: 
- Celular
-- Motivações: 
- Ele afirma que é mais velho, merece respeito por ter mais experiência de vida.
-Independência e alcançar uma autonomia
-- Frustrações:
- Angústia e incapacidade, 
- Se sente ultrapassado,
- O neto dele diz pra ele que é só "jogar no google",
- Acha o google complicado, 
- Os amigos não tem paciência ou sabem menos que ele
-- Hobbies: 
- Joga paciência no Celular,
- Assistir History Channel,
- Encaminhar fake news no Whatsapp
+Gill Gates
+>- Idade: 
+ >70 anos 
+>- Ocupação: 
+ >Aposentado
+>- Objetivos: 
+ >Entretenimento, 
+ >informação, 
+ >manter contato com os familiares, 
+ >exercer sua cidadania e fazer transações financeiras
+>- Sonhos: 
+ >Quer ver os netos dando certo na vida, 
+ >aposentadoria tranquila
+>- Aplicativos usados: 
+ >WhatsApp, 
+ >Facebook
+>- Dispositivos usados: 
+ >Celular
+>- Motivações: 
+ >Ele afirma que é mais velho, merece respeito por ter mais experiência de vida.
+>Independência e alcançar uma autonomia
+>- Frustrações:
+ >Angústia e incapacidade, 
+ >Se sente ultrapassado,
+ >O neto dele diz pra ele que é só "jogar no google",
+ >Acha o google complicado, 
+ >Os amigos não tem paciência ou sabem menos que ele
+>- Hobbies: 
+ >Joga paciência no Celular,
+ >Assistir History Channel,
+ >Encaminhar fake news no Whatsapp
 
 
 
