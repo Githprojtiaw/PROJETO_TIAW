@@ -1,19 +1,15 @@
 # Apresentação
 
-<span style="color:red">Pré-requisitos: Todos os demais artefatos</span>
-
-
-> Conjunto de slides em um arquivo PowerPoint ou PDF
-> com a apresentação do projeto contemplando todos os
-> itens trabalhados nos demais artefatos.
-
 ## Título do Projeto
-> Nome e marca do projeto
+> Acessibilidade de Idosos em Plataformas Digitais
 
-## Identidade Visual (Marca, Design)
-> O grupo deve ter o cuidado em utilizar figuras, imagens, e
-> cores dentro do contexto da solução proposta, de forma a
-> manter a temática do problema.
+## Identidade Visual (Marca, Design) 
+
+Tela - Home
+
+A tela home é, como o próprio nome diz, a porta de entrada e o local das boas vindas para as experiências que podemos proporcionar para aqueles que utilizarão dos nossos serviços. Nela é possível encontrar botões que te levam para todas as outras partes do nosso projeto.
+
+>[](images/tela.inicial.png)
 > 
 > **Links Úteis**:
 > - [10 dicas de design para slides](https://rockcontent.com/blog/design-para-slides/)
