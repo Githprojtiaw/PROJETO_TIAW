@@ -20,11 +20,6 @@ Conforme o fluxo de telas do projeto mostrado anteriormente, as telas do sistema
 
 ![Exemplo de Wireframe](images/estrutura.site.png)
 
-> São protótipos usados em design de interface para sugerir a
-> estrutura de um site web e seu relacionamentos entre suas
-> páginas. Um wireframe web é uma ilustração semelhante do
-> layout de elementos fundamentais na interface.
-> 
+
 > **Links Úteis**:
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
+> - [MarvelApp](https://marvelapp.com/prototype/61e0baf)
