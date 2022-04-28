@@ -42,32 +42,38 @@ Gill Gates
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE`                             |PARA ... `MOTIVO/VALOR`                                              |
+|--------------------|----------------------------------------------------------------|---------------------------------------------------------------------|
+|Gil Gates           | aprender a mexer nos aplicativos que mais uso                  | ter independência                                                   |
+|Gil Gates           | ter mais agilidade com o telefone                              | gastar menos tempo para enviar e encaminhar mensagens               |
+|Carmen da Rosa      | aprender a fazer chamada de vídeo                              | acompanhar as novidades da vida dos netos                           |
+|Carmen da Rosa      | aprender a mexer no YouTube e Instagram                        | ver vídeos que me interessam e engajar nas publicações postadas     |
+|Gabriela Penna      | haja um aplicativo ou site que ajude idosos a mexerem nos apps |  focar nos cuidados com a saúde dos meus pacientes                  |
+|Gabriela Penna      | os idosos tenham, mais autonomia no meio digital               |  não precisar interromper uma tarefa para ajudá-los                 |
+|Ana Gates           | que meus avós aprendam a utilizar dispositivos eletrônicos     |  não ter que ajudá-los todas as vezes com as mesmas situações       |
 
-> Apresente aqui as histórias de usuário que são relevantes para o
-> projeto de sua solução. As Histórias de Usuário consistem em uma
-> ferramenta poderosa para a compreensão e elicitação dos requisitos
-> funcionais e não funcionais da sua aplicação. Se possível, agrupe as
-> histórias de usuário por contexto, para facilitar consultas
-> recorrentes à essa parte do documento.
->
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
+
 
 ## Requisitos
 
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
+O escopo funcional do projeto é definido por meio dos requisitos funcionais que descrevem as possibilidades interação dos usuários, bem como os requisitos não funcionais que descrevem os aspectos que o sistema deverá apresentar de maneira geral. Estes requisitos são apresentados a seguir
 
 ### Requisitos Funcionais
 
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|  ID  | DESCRIÇÃO                                                                                                                                        |PRIORIDADE |
+|------|----------------------------------------------------------------------------------------------------------------------------------------------------|------|
+|RF-01 |O site deve apresentar na página principal os principais aplicativos usados pelos idosos                                                            |Alta  | 
+|RF-02 |O site deve perguntar se cada informação foi útil                                                                                                   |Alta  |
+|RF-03 |O site deve permitir ao usuário visualizar o texto com facilidade, possuindo uma fonte grande                                                       |Alta  |
+|RF-04 |O site deve oferecer um menu adicional que permita ao usuário visualizar outros sites                                                               |Alta  |
+|RF-05 |O site deve possuir uma página de perguntas mais frequentes e respostas                                                                             |Média |
+|RF-06 |O site de possuir uma função de compartilhamento                                                                                                    |Média |
+|RF-07 |O site deve apresentar na página principal uma introdução do que se trata esse site e como usá-lo                                                   |Média |
+|RF-08 |O site deve oferecer uma funcionalidade de pesquisa para permitir ao usuário localizar um texto específico que será informado na caixa de pesquisa. |Baixa |
+|RF-09 |O site deve permitir visualizar as informações de contatos do mantenedor do site                                                                    |Baixa |
+|RF-10 |O site deve permitir salvar as informações preferidas                                                                                               |Baixa |
+
+
 
 
 ### Requisitos não Funcionais
