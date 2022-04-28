@@ -9,7 +9,7 @@ Tela - Home
 
 A tela home é, como o próprio nome diz, a porta de entrada e o local das boas vindas para as experiências que podemos proporcionar para aqueles que utilizarão dos nossos serviços. Nela é possível encontrar botões que te levam para todas as outras partes do nosso projeto.
 
->[](images/tela.inicial.png)
+>[Tela home](images/tela.inicial.png)
 > 
 > **Links Úteis**:
 > - [10 dicas de design para slides](https://rockcontent.com/blog/design-para-slides/)
