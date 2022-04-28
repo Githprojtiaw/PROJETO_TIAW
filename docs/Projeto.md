@@ -1,19 +1,24 @@
 # Informações do Projeto
-`TÍTULO DO PROJETO`  
+`Acessibilidade de Idosos em Plataformas Digitais`  
 
 Trabalho Interdisciplinar - Aplicacões Web
 
-`CURSO`
+`Ciência da Computação`
 
-`SEMESTRE`
+`1° Semestre`
 
 ## Participantes
 
 Os membros do grupo são: 
-- Fulano da Silva
-- Ciclano Albuquerque
 
-> Inclua a lista dos membros da equipe com seus nomes completos.
+- Beatriz Demetrio Ribeiro Padrão 
+- Gabriel Ramos Torres 
+- Humberto Lopes Penna Orsini 
+- Maria Cecília Parreiras Santos Henriques 
+- Maria Fernanda Nogueira Jones 
+- Nathália Mascarenhas Tenaglia  
+- Pedro Augusto Etelvino Albuquerque
+
 
 # Estrutura do Documento
 
