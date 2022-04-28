@@ -6,9 +6,13 @@ Visto isso, a população idosa entra em desvantagem em relação aos demais, um
 
 Diante de tal situação, é fundamental que existam formas de tornar a experiência dos usuários da terceira idade mais simples e prática, uma vez que, na contemporaneidade, diversos aspectos do dia-a-dia necessitam de algum tipo de tecnologia digital.
 
+
+
 ## Problema
 
 Retomando o que foi exposto anteriormente, uma considerável parcela da população idosa é excluída da sociedade por não ter o conhecimento necessário para utilizar dispositivos eletrônicos e páginas web. Desse modo, o problema baseia-se na busca em tornar os sites e aplicativos mais acessíveis a esse grupo, de forma que as dificuldades enfrentadas por ele sejam superadas e, assim, haja a inclusão dessa parcela social na sociedade.
+
+
 
 ## Objetivos
 
@@ -22,11 +26,13 @@ Como objetivos específicos, podemos ressaltar:
  - Ter um espaço que responda todas as dúvidas frequentes 
 
 
+
 ## Justificativa
 
 Em uma entrevista feita pela Cable News Network (CNN), José Martinez, um idoso aposentado de 88 anos disse a seguinte frase: “Devido às circunstâncias de que hoje se precisa do celular para tudo, sobretudo com a pandemia em que fiquei um ano em casa, percebi que precisava aprender a usar o aparelho”. Essa realidade não foi vivenciada só por ele, mas também com inúmeros outros indivíduos mais velhos, o que é comprovado pelo estudo feito pela Confederação Nacional de Dirigentes Lojistas (CNDL) em parceria com o Serviço de Proteção ao Crédito (SPC), revelando que houve um aumento de 68% - em 2018 - para 97% da população acima de 60 anos acessando a internet, em 2021.
 
 Portanto, ao nosso ver, tais dados fazem com que a busca por meios em acessibilizar o uso de tecnologias para tal parcela populacional torne-se algo de extrema urgência na contemporaneidade.
+
 
 
 ## Público-Alvo
