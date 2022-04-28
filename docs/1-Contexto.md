@@ -1,4 +1,9 @@
 # Introdução
+Desde os primórdios, a criação de novas tecnologias nunca deixou de ser algo presente no cotidiano do ser humano, sempre visando otimizar tarefas complexas e aperfeiçoar as mais simples. A partir disso, surgiram as tecnologias digitais, que se expandem de forma exponencial, tornando o mundo cada vez mais digitalizado.
+
+Visto isso, a população idosa entra em desvantagem em relação aos demais, uma vez que, durante a ascensão das inovações eletrônicas, esse grupo já fazia parte da população economicamente ativa. Dessa maneira,  sites e aplicativos não são intuitivos para eles como são para as outras faixas etárias, o que pode ser comprovado por um estudo feito pela Universidade de São Paulo, em que, do total dos entrevistados, 24% dos mais velhos relataram ter medo de utilizar as novas tecnologias, enquanto 40% tem receio de danificar o aparelho. A partir desse pressuposto, conclui-se que muitos são incapazes de manusear aparelhos eletrônicos sem ajuda, o que os força a consultar pessoas mais novas de seu ciclo social para utilizar algum dispositivo eletrônico, com frequência. 
+
+Diante de tal situação, é fundamental que existam formas de tornar a experiência dos usuários da terceira idade mais simples e prática, uma vez que, na contemporaneidade, diversos aspectos do dia-a-dia necessitam de algum tipo de tecnologia digital.
 
 ## Problema
 > Nesse momento você deve apresentar o problema que a sua aplicação deve
