@@ -1,50 +1,31 @@
-# Gerenciamento de Projeto
+# Gerenciamento do Projeto (faltando!)
 
-> Descreva aqui a metodologia de trabalho do grupo para atacar o
-> problema.
+> A nossa equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento.
 
 ## Divisão de Papéis
 
-> Apresente a divisão de papéis entre os membros do grupo.
->
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+- Scrum Master: ...
+- Product Owner: ... 
+>Equipe de Desenvolvimento:
+>- ... (Desenvolvedor Front End)
+>- ... (Desenvolvedor Back End)
+>- ... (Analista de Negócios)
+>- ... (Desenvolvedor Front End)
+>- ... (Designer)
 
-## Processo
-
-> Coloque  informações sobre detalhes da implementação do Scrum seguido
-> pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar
-> o andamento do projeto, a execução das tarefas e o status de desenvolvimento
-> da solução.
-> 
-> **Links Úteis**:
-> - [Tutorial Trello](https://trello.com/b/8AygzjUA/tutorial-trello)
-> - [Gestão ágil de projetos com o Trello](https://www.youtube.com/watch?v=1o9BOMAKBRE)
-> - [Gerência de projetos - Trello com Scrum](https://www.youtube.com/watch?v=DHLA8X_ujwo)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
 
 ## Ferramentas
 
-As ferramentas empregadas no projeto são:
+Para organização e distribuição das tarefas do projeto, a equipe está utilizando o Trello estruturado com as seguintes listas: (feito!)
 
-- Editor de código.
-- Ferramentas de comunicação
-- Ferramentas de diagramação
+- Recursos: esta lista mantém template de tarefas recorrentes com as configurações padronizadas que todos devem seguir. 
+- Backlog: recebe as tarefas a serem trabalhadas e representa o Product Backlog. 
+- To Do:  O que precisa ser feito
+- Doing: Quando uma tarefa tiver sido iniciada, ela é movida para cá (sprint 1)
+- Test: Checagem de Qualidade. Quando as tarefas são concluídas, elas são movidas para o “CQ”. 
+- Done: tarefas que passaram pelos testes e controle de qualidade, estando então prontas para serem entregues ao usuário. Não necessita mais edições ou revisões, ele está agendado e pronto para a ação.
+- Locked: Quando alguma coisa impede a conclusão da tarefa, ela é movida para esta lista juntamente com um comentário sobre o que está travando a tarefa.
 
-O editor de código foi escolhido porque ele possui uma integração com o
-sistema de versão. As ferramentas de comunicação utilizadas possuem
-integração semelhante e por isso foram selecionadas. Por fim, para criar
-diagramas utilizamos essa ferramenta por melhor captar as
-necessidades da nossa solução.
+O quadro kanban do grupo no Trello está disponível através da URL https://trello.com/b/9NXUPgGY/tiaw-acessibilidade-de-idosos
 
-> Liste quais ferramentas foram empregadas no desenvolvimento do
-> projeto, justificando a escolha delas, sempre que possível.
-> 
-> **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
-> - [![Slack](images/slack.jpg)](https://slack.com/)
 > - [![Trello](images/trello.png)](https://trello.com/)
-> 
-> - [![Microsof Project](images/project.png)](https://products.office.com/pt-br/project/project-and-portfolio-management-software)
-> - [![Redbooth](images/redbooth.png)](https://redbooth.com/)
